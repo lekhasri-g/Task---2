@@ -2,7 +2,7 @@
 # README - Phishing Email Analysis
 
 ## Name: Lekha Sri
-## Date: 29-09-2025
+## Date: 23-09-2025
 
 ### Objective:
 The purpose of this task is to analyze a sample phishing email and identify the key indicators that classify it as a phishing attempt.
