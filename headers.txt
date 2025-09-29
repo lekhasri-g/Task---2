@@ -1,0 +1,10 @@
+Return-Path: <bounce@paypa1.com>
+Received: from unknown (HELO mail.paypa1-hosting) (197.51.100.24)
+    by mx.google.com with SMTP; Tue, 16 Sep 2025 09:12:34 -0700 (PDT)
+From: "PayPal Support" <support@paypa1.com>
+To: victim@example.com
+Subject: URGENT: Your account has been limited — Verify immediately
+Message-ID: <CA+abc123xyz@mail.paypa1-hosting>
+Date: Tue, 16 Sep 2025 16:42:30 +0530
+Reply-To: support@customerservice-paypal.com
+Authentication-Results: mx.google.com; spf=fail (google.com: domain of support@paypa1.com does not designate 197.51.100.24 as permitted sender) smtp.mailfrom=paypa1.com; dkim=none; dmarc=fail

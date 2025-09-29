@@ -1,0 +1,14 @@
+From: PayPal Support <support@paypa1.com>
+Subject: URGENT: Your account has been limited — Verify immediately
+
+Dear Customer,
+
+We detected suspicious activity on your PayPal account. For your security, we have limited access to your account.
+Please verify your account within 24 hours to avoid permanent suspension.
+
+Verify now: https://paypal.verify-secure.xyz/verify?id=ABC123
+
+Attached: Invoice.pdf.exe
+
+Thank you,
+PayPal Support
