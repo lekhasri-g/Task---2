@@ -1,6 +1,5 @@
 # Task---2
 # README - Phishing Email Analysis
-
 ## Name: Lekha Sri
 ## Date: 23-09-2025
 
